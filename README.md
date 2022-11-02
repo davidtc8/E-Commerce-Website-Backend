@@ -1,7 +1,9 @@
 # E-Commerce-Website-Backend
 Back end for an e-commerce site. Working with Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-# ![license image](https://img.shields.io/badge/license-MIT-brightgreen.svg)# Table of Contents
+# ![license image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+
+# Table of Contents
 - [Go to installation section](#-installation)
 - [Go to usage guide section](#-usage-guide)
 - [Go to contribution guidelines section](#-contribution-guidelines)
